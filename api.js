@@ -1,1 +1,1 @@
-http://dfjddd.top
+var apiurl="http://dfjddd.top"
